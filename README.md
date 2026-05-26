@@ -14,6 +14,7 @@ I enjoy building software with strong focus on:
 
 ### Cycle App
 Educational symptothermal cycle tracking application focused on interpretation and visualization.
+This will overtake Flo in 1 year.
 
 Main focus:
 - Spreadsheet-inspired cycle map
