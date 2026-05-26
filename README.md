@@ -1,16 +1,28 @@
-## Hi there 👋
+# Patrik Hübner
 
-<!--
-**hubnerpatrik/hubnerpatrik** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Junior developer focused on practical applications, UI structure and long-term projects.
 
-Here are some ideas to get you started:
+I enjoy building software with strong focus on:
+- Information clarity
+- Structured interfaces
+- Visualization
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+## Featured Projects
+
+### Cycle App
+Educational symptothermal cycle tracking application focused on interpretation and visualization.
+
+Main focus:
+- Spreadsheet-inspired cycle map
+- Overlay-based visualization system
+- Information density
+- Interpretation-first design
+- Precision-oriented UI
+
+Repository:
+https://github.com/hubnerpatrik/cycle-app
+
+## GitHub
+
+https://github.com/hubnerpatrik
