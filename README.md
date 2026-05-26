@@ -8,7 +8,7 @@ I enjoy building software with strong focus on:
 - Visualization
 
 
-## Featured Projects
+## Main Project
 
 <img width="1920" height="999" alt="Screenshot 2026-05-26 at 13-22-36 Cycle Tracker" src="https://github.com/user-attachments/assets/d4a52026-d5e7-468d-9922-0ff708b75355" />
 
