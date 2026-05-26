@@ -1,3 +1,5 @@
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=hubnerpatrik&label=Profile%20views&color=0e75b6&style=flat" alt="hubnerpatrik" /> </p>
+
 # 🗿 Patrik Hübner
 
 Junior developer focused on practical applications, UI structure and long-term projects.
