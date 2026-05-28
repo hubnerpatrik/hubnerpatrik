@@ -12,7 +12,7 @@ I enjoy building software with strong focus on:
 
 ## 📦 Main Project
 
-<img width="1920" height="999" alt="Screenshot 2026-05-26 at 13-22-36 Cycle Tracker" src="https://github.com/user-attachments/assets/d4a52026-d5e7-468d-9922-0ff708b75355" />
+<img width="1920" height="1200" alt="obrazek" src="https://github.com/user-attachments/assets/cdc39695-1924-404c-af33-e95aa4b67e1c" />
 
 ### 🩸 Cycle App
 Educational symptothermal cycle tracking application focused on interpretation and visualization.
