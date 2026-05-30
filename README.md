@@ -28,6 +28,9 @@ Main focus:
 Repository:
 https://github.com/hubnerpatrik/cycle-app
 
+Demo:
+https://cycle-6mf61zw3o-hubnerpatriks-projects.vercel.app/
+
 ## GitHub
 
 https://github.com/hubnerpatrik
